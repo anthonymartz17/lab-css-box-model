@@ -18,6 +18,8 @@ In this lab, you'll have the opportunity to design a student newsletter. The con
 
 To complete this lab, you will need to add the following styles. If you're unclear about any of the instructions below, remember that you can check the provided image to see what exactly the appearance should be.
 
+You will need to add more styling than mentioned below, google and the chrome developer tools will be your best friends!
+
 **Hint**: while styling, you can use the following to help see your elements and understand their overall placement and size:
 
 ```CSS
